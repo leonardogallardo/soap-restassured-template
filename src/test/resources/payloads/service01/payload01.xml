@@ -1,0 +1,6 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <S:Body>
+        <teste>#(env.nome)</teste>
+        <teste>#(env.birth)</teste>
+    </S:Body>
+</S:Envelope>
